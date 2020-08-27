@@ -1,2 +1,5 @@
 # 手寫辨識分類
-## 資料來源:http://yann.lecun.com/exdb/mnist/
+## 資料介紹(來源:http://yann.lecun.com/exdb/mnist/ )
+### 訓練集資料:60000筆
+### 測試集資料:10000筆
+### 特徵維度:784維
