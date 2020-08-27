@@ -11,3 +11,5 @@
 ### relu函數
 ### 輸出層:維度10，初始權重normal(0,0.02)，初始偏差normal(0,0.01)
 ### 損失函數:$CE = -(1/N)\sum_{i=1}^{N}y_ilog(\hat{y}_i) + (1-y_i)log(1-\hat{y}_i)$
+
+### 更新梯度:momentum(momentum=0.9,learning_rate=0.01)
