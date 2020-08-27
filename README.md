@@ -15,3 +15,4 @@
 
 ### 更新梯度:momentum(momentum=0.9,learning_rate=0.01)
 ### 預測結果:softmax函數
+### 評估標準:準確度(取每個batch的平均)共有50個(epochs)評估結果
